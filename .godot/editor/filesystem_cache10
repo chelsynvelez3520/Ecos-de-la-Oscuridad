@@ -1,0 +1,96 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1793927374
+export_presets.cfg::TextFile::-1::1793926616::0::1::::<><><>0<>0<><>::
+LEEME_VERSION_3.txt::TextFile::-1::1793670703::0::1::::<><><>0<>0<><>::
+README_PRIMEROS_PASOS.txt::TextFile::-1::1793670703::0::1::::<><><>0<>0<><>::
+::res://assets/::1793670703
+::res://assets/backgrounds/::1793670740
+basement.png::CompressedTexture2D::7633582388672822154::1793670703::1793670740::1::::<><><>0<>0<>1c5d95678e2caccced960742b78b77c7<>res://.godot/imported/basement.png-82cc3329713e2924d362a12b6e1773b2.ctex::
+bedroom.png::CompressedTexture2D::8855420093609870776::1793670703::1793670740::1::::<><><>0<>0<>f2d2595dbd05393762aa2c3ebabd8242<>res://.godot/imported/bedroom.png-859655773fcbdcb480ed2ce7e0dae459.ctex::
+ending.png::CompressedTexture2D::7523341341538795395::1793670703::1793670740::1::::<><><>0<>0<>e369669e6116ab10ae481223ca95d084<>res://.godot/imported/ending.png-0d5741d127733e93e317eb40c12ec3fe.ctex::
+exterior.png::CompressedTexture2D::8370179812609718616::1793670703::1793670740::1::::<><><>0<>0<>1784320d7d138c7e539e6daba11b1e7e<>res://.godot/imported/exterior.png-0d312b504545d5c78263800b9003de88.ctex::
+investigation.png::CompressedTexture2D::8732187306691984426::1793670703::1793670740::1::::<><><>0<>0<>d921d9314b2e73c29a886119b697d009<>res://.godot/imported/investigation.png-df50541ee8ae87c33cebc56ab3d2061b.ctex::
+mansion_hall.png::CompressedTexture2D::5360468193196693415::1793670703::1793670740::1::::<><><>0<>0<>5454bfc79186872834bb4d77e3630087<>res://.godot/imported/mansion_hall.png-8c8f93c62758539957f7a90db1320d15.ctex::
+::res://assets/characters/::1793670703
+detective_frames.tres::SpriteFrames::-1::1793670703::0::1::::<><><>0<>0<><>::res://assets/characters/frames/r0_c0.png<>res://assets/characters/frames/r0_c1.png<>res://assets/characters/frames/r0_c2.png<>res://assets/characters/frames/r0_c3.png<>res://assets/characters/frames/r1_c0.png<>res://assets/characters/frames/r1_c1.png<>res://assets/characters/frames/r1_c2.png<>res://assets/characters/frames/r1_c3.png<>res://assets/characters/frames/r2_c0.png<>res://assets/characters/frames/r2_c1.png<>res://assets/characters/frames/r2_c2.png<>res://assets/characters/frames/r2_c3.png<>res://assets/characters/frames/r3_c0.png<>res://assets/characters/frames/r3_c1.png<>res://assets/characters/frames/r3_c2.png<>res://assets/characters/frames/r3_c3.png
+::res://assets/characters/frames/::1793670740
+r0_c0.png::CompressedTexture2D::6447329627359776060::1793670703::1793670740::1::::<><><>0<>0<>d61d58ad433c98bc9fbe3c8d3a115920<>res://.godot/imported/r0_c0.png-1af8850aa881882011798331fc8bb8c0.ctex::
+r0_c1.png::CompressedTexture2D::4655275632025052641::1793670703::1793670740::1::::<><><>0<>0<>cf36d760b80ede482dfe2bc82b13de3a<>res://.godot/imported/r0_c1.png-855826f47087945e6785c42d11369207.ctex::
+r0_c2.png::CompressedTexture2D::3610724205807455864::1793670703::1793670740::1::::<><><>0<>0<>7cb80166ecd557dafea0a4fa47c172c8<>res://.godot/imported/r0_c2.png-4dab766c6e94453051795b8d322d8901.ctex::
+r0_c3.png::CompressedTexture2D::2165578660615789649::1793670703::1793670740::1::::<><><>0<>0<>8e9562406d5115f44cc19680fdcedd37<>res://.godot/imported/r0_c3.png-a53a79d71e43e0fae6573b8f66442004.ctex::
+r1_c0.png::CompressedTexture2D::7185143193251190853::1793670703::1793670740::1::::<><><>0<>0<>ad3257ea63f37677d783022036ceb256<>res://.godot/imported/r1_c0.png-68687d1a34840f228c02eaf0fd31dd0a.ctex::
+r1_c1.png::CompressedTexture2D::5868834253246746456::1793670703::1793670740::1::::<><><>0<>0<>c35f1cdf8f2fce55035feeaf31b42373<>res://.godot/imported/r1_c1.png-374e5fa870507aa64d1be437d09acba6.ctex::
+r1_c2.png::CompressedTexture2D::1782094746196307240::1793670703::1793670740::1::::<><><>0<>0<>20f55f843ffe4e126d44ee142b3f72c5<>res://.godot/imported/r1_c2.png-fe87f12a1dac1244f52c33c31cb3abe6.ctex::
+r1_c3.png::CompressedTexture2D::2591315499338302461::1793670703::1793670740::1::::<><><>0<>0<>2a708f8233849ca972649b3815870f87<>res://.godot/imported/r1_c3.png-fe2b26a589acf7ba0a7d2d41bbc18775.ctex::
+r2_c0.png::CompressedTexture2D::3776399638661510901::1793670703::1793670740::1::::<><><>0<>0<>6e49a317367c00311a8af6ac15a8b327<>res://.godot/imported/r2_c0.png-a98cb64731e56b50c28eb334d9dfb40e.ctex::
+r2_c1.png::CompressedTexture2D::2905063635301956636::1793670703::1793670740::1::::<><><>0<>0<>644bf52f9883c73ce55c58608b3e2e79<>res://.godot/imported/r2_c1.png-6bedf9de3316901f579c7dc762b2cc1d.ctex::
+r2_c2.png::CompressedTexture2D::7208709667893612439::1793670703::1793670740::1::::<><><>0<>0<>ff5f8ad19518fb807634b327ea597fa8<>res://.godot/imported/r2_c2.png-0a43749272c9e69446a6c471f138676b.ctex::
+r2_c3.png::CompressedTexture2D::3278470026754828624::1793670703::1793670740::1::::<><><>0<>0<>b27d09786cd8d369c236e6e6ce1242c5<>res://.godot/imported/r2_c3.png-d9e932c832960559d436d66c33248825.ctex::
+r3_c0.png::CompressedTexture2D::4612256894639619645::1793670703::1793670740::1::::<><><>0<>0<>4d20553ef900ebbd471655d3471035e1<>res://.godot/imported/r3_c0.png-89c57d26ee501cb7d2048985712f3e4a.ctex::
+r3_c1.png::CompressedTexture2D::3868382837194933669::1793670703::1793670740::1::::<><><>0<>0<>463de8099c1bdfd9bce6700508501ea4<>res://.godot/imported/r3_c1.png-baaeeb8961bec2b1f2998aafab3d5b45.ctex::
+r3_c2.png::CompressedTexture2D::1418364404057703188::1793670703::1793670740::1::::<><><>0<>0<>17dcd7e4c64f558ecc60dc6cd7433bfb<>res://.godot/imported/r3_c2.png-3d082d413a7f130651e5af0a9d78ea82.ctex::
+r3_c3.png::CompressedTexture2D::335457613970521367::1793670703::1793670740::1::::<><><>0<>0<>ad1e0b7a3bfc0f25ba2541d3df34cd48<>res://.godot/imported/r3_c3.png-f972759eb3bb1c6c68a0e81571aca8cb.ctex::
+::res://assets/ui/::1793670741
+main_menu_background.png::CompressedTexture2D::9005329546776111669::1793670704::1793670741::1::::<><><>0<>0<>00caca078cbb560d354fcc560d896777<>res://.godot/imported/main_menu_background.png-b4323823696bbd078e93a7a4ca70ae1e.ctex::
+main_menu_reference.png::CompressedTexture2D::7214777186965267150::1793670704::1793670740::1::::<><><>0<>0<>991dd78bebd439adbb38367cd9e596e8<>res://.godot/imported/main_menu_reference.png-c81bfbcfa86cbca7ee05cd0b8bd2d2f0.ctex::
+sprite_sheet_reference.png::CompressedTexture2D::5635466608795216326::1793670704::1793670740::1::::<><><>0<>0<>5758639859d3834118742e58093351bb<>res://.godot/imported/sprite_sheet_reference.png-53ff7f9a7db19da997c3433b0bcebaa5.ctex::
+::res://audio/::1793856829
+Haunted-house-ambience.mp3::AudioStreamMP3::3300413057941601631::1793856829::1793856829::1::::<><><>0<>0<>84ba857b14ad6f5a82624a2eee611673<>res://.godot/imported/Haunted-house-ambience.mp3-1907a67ca266b8fa45f04f2d3bb109c2.mp3str::
+::res://audio/audio/::1793892911
+::res://audio/audio/basement/::1793893343
+luminewave-devil-time-621140.mp3::AudioStreamMP3::3082500998173105439::1793893343::1793893343::1::::<><><>0<>0<>82fb8f0284154fa5e58a135139baf857<>res://.godot/imported/luminewave-devil-time-621140.mp3-86bc0ce697bf22adb10202c0c2cd4ca4.mp3str::
+::res://audio/audio/bedroom/::1793887635
+shut_up_ghost-haunted-mansion-echo-ambiance.mp3::AudioStreamMP3::2385840551681085188::1793887635::1793887635::1::::<><><>0<>0<>2cf7a80597c263e00c567ff08cbb5435<>res://.godot/imported/shut_up_ghost-haunted-mansion-echo-ambiance.mp3-4f5ffc1922f72d860dcaf62e604ccc8b.mp3str::
+::res://audio/audio/exterior/::1793892923
+atlasaudio-mysterious-581914.mp3::AudioStreamMP3::7253544315072598749::1793892923::1793892923::1::::<><><>0<>0<>f06ba3899bb5cc483d1c2a672edae99f<>res://.godot/imported/atlasaudio-mysterious-581914.mp3-8d82b7b924a6249bbac2158449421de2.mp3str::
+::res://audio/audio/investigation/::1793892165
+ovrsoull-dark-ambient-cinematic-drone-investigative-pulse-minimalist-tension.mp3::AudioStreamMP3::2312871261583303613::1793892164::1793892165::1::::<><><>0<>0<>d6ddba215f8a6b7a9026df47e05cbb5c<>res://.godot/imported/ovrsoull-dark-ambient-cinematic-drone-investigative-pulse-minimalist-tension.mp3-860b4791992cef350eeb11529edbadde.mp3str::
+::res://audio/audio/mainmenu/::1793892668
+ashot_danielyan-mysterious-suspense-cinematic-soundtrack-film-music-230419.mp3::AudioStreamMP3::6054138643076168521::1793892668::1793892668::1::::<><><>0<>0<>ab650d347342bb43a9782778cf8fcfdc<>res://.godot/imported/ashot_danielyan-mysterious-suspense-cinematic-soundtrack-film-music-230419.mp3-386695e79223ac345afd4501d946be5b.mp3str::
+::res://audio/audio/mansion/::1793887592
+DarkHorrorAmbient.mp3::AudioStreamMP3::140641666501851561::1793851431::1793887592::1::::<><><>0<>0<>8bb88c92466014d16e9e6c850bb19883<>res://.godot/imported/DarkHorrorAmbient.mp3-97f4b4ebfbf3b77ffbb4af49f33ec181.mp3str::
+::res://audio/ending/::1793887592
+DoorCreak.mp3::AudioStreamMP3::5003690142645364553::1793851431::1793851431::1::::<><><>0<>0<>43e6db86e5b04d1585957bae8891a3d1<>res://.godot/imported/DoorCreak.mp3-d47c19e7e78bd3a9195e9bbcaa841ce7.mp3str::
+GhostWhisper.mp3::AudioStreamMP3::1300507435426671572::1793851431::1793851431::1::::<><><>0<>0<>b12351210e1d91173ec09f0fe6fc084a<>res://.godot/imported/GhostWhisper.mp3-02983625f6e0b65ce2b33255601e353a.mp3str::
+::res://images/::1793912525
+Carta anónima bajo la luna-1.png::CompressedTexture2D::7168952521639419772::1793756585::1793756586::1::::<><><>0<>0<>daffefbd1c55be0d33103f9876874d4a<>res://.godot/imported/Carta anónima bajo la luna-1.png-ecc03fbc39650a32af913eec2e78d5f6.ctex::
+Carta anónima en mansión encantada-2.png::CompressedTexture2D::112793829977805543::1793756585::1793912216::1::::<><><>0<>0<>adf0359d9b335060e089298dd36fa9bd<>res://.godot/imported/Carta anónima en mansión encantada-2.png-bea81c06f431c5958be9581cd32a64bb.ctex::
+carta_transparente.png::CompressedTexture2D::8043836999038654354::1793908864::1793908865::1::::<><><>0<>0<>1ee0a9baf8932bdafafbc40c93192e52<>res://.godot/imported/carta_transparente.png-263b437fe8ba34cc2e6b76c66a5d6e60.ctex::
+diario.png::CompressedTexture2D::3359671384614090504::1793912286::1793912286::1::::<><><>0<>0<>1050c248d977a21ebeeca94e75efa216<>res://.godot/imported/diario.png-0f908f6e9dbfc8bc5e341e519415f577.ctex::
+Documento confidencial.png::CompressedTexture2D::1078763312827156225::1793908193::1793908194::1::::<><><>0<>0<>a974496bb48a2a9e518a87f5b788f5ae<>res://.godot/imported/Documento confidencial.png-a4639ac378a23258bcfdc01bbbb3c0f1.ctex::
+documento.png::CompressedTexture2D::5758229100459825850::1793912525::1793912525::1::::<><><>0<>0<>19afb6b20b6082ff7b21c44040f894a7<>res://.godot/imported/documento.png-680fa6f520a264ff4115612df928af3e.ctex::
+escena final.png::CompressedTexture2D::1359970285821195931::1793908193::1793908193::1::::<><><>0<>0<>9645449c0f1ec63748cd72430f7be947<>res://.godot/imported/escena final.png-a2ea0a231e9d7452d983e81b6ba704bd.ctex::
+Escenas del Juego.png::CompressedTexture2D::4019889944083042543::1793908193::1793908194::1::::<><><>0<>0<>95f6396b1f129413b2b859ab01d71e7d<>res://.godot/imported/Escenas del Juego.png-2e5d5317eea87608dbea35529bb024c8.ctex::
+Estructura del juego.png::CompressedTexture2D::93837025232516062::1793908193::1793908193::1::::<><><>0<>0<>36fd3e7186a829274d8aea93e5849a0e<>res://.godot/imported/Estructura del juego.png-b929122724fa96070e9b9001792a2039.ctex::
+exterior de la mansion.png::CompressedTexture2D::1981330412688294079::1793908193::1793908194::1::::<><><>0<>0<>d72443a6e42296dc3798438c61b8a90c<>res://.godot/imported/exterior de la mansion.png-a836029fc7c59320e0cdff86cf391dcf.ctex::
+fotografia.png::CompressedTexture2D::8932398611321510016::1793912505::1793912506::1::::<><><>0<>0<>103b1497751a6cf80f5a092ffaca6cc3<>res://.godot/imported/fotografia.png-a8f94a3e9da983b45bbf88d83b1a809b.ctex::
+grabacion.png::CompressedTexture2D::5144347254744044634::1793912505::1793912506::1::::<><><>0<>0<>b52e045ce8ad7820b049a754817cdb64<>res://.godot/imported/grabacion.png-84e91c5958d9f15c8f7ec895e63d08ee.ctex::
+habitacion de la mansion.png::CompressedTexture2D::4176904046796918755::1793908193::1793908194::1::::<><><>0<>0<>c6f18de22bd93d2ee183699824e4895b<>res://.godot/imported/habitacion de la mansion.png-e5aa7796407612e66c281fbe6055e3f2.ctex::
+llave.png::CompressedTexture2D::3165134670890667445::1793912286::1793912286::1::::<><><>0<>0<>65cef4476325531d07d983890b3fb734<>res://.godot/imported/llave.png-75db32d5210794ebf19dec3953bc9c11.ctex::
+mapa.png::CompressedTexture2D::1424161137603739802::1793912286::1793912286::1::::<><><>0<>0<>5d5c12abffb7e7257360edc065fb604a<>res://.godot/imported/mapa.png-a00a6f3285e07779ee37116779062d90.ctex::
+puerta_transparente.png::CompressedTexture2D::2376969620423799284::1793908864::1793908865::1::::<><><>0<>0<>c047f40fbbfa9a35faacb67f8a225758<>res://.godot/imported/puerta_transparente.png-ddb35b469807919fcb869bd27c6ec4b0.ctex::
+::res://scenes/::1793926968
+ambient_audio.gd::GDScript::4344371009514548299::1793857359::0::1::::<>AudioStreamPlayer<><>0<>0<><>::
+Basement.tscn::PackedScene::3040381566052610684::1793921501::0::1::::<><><>0<>0<><>::uid://dg008sty0jhgk::::res://assets/backgrounds/basement.png<>uid://dghrmc5ub7fso::::res://scenes/Player.tscn<>uid://bvymkd61fly0j::::res://scripts/Level.gd<>uid://marwldeffjcf::::res://scenes/Interactable.tscn<>uid://dlmexrwdtwq0k::::res://scenes/basement_puzzle_panel.tscn<>uid://bj6gluj3wmbp4::::res://audio/audio/basement/luminewave-devil-time-621140.mp3
+basement_puzzle_panel.gd::GDScript::5517418209910492458::1793827332::0::1::::<>Control<><>0<>0<><>::
+basement_puzzle_panel.tscn::PackedScene::7956396732422485468::1793840361::0::1::::<><><>0<>0<><>::uid://ckuxcparn8htq::::res://scenes/basement_puzzle_panel.gd
+Bedroom.tscn::PackedScene::481265439697465717::1793921036::0::1::::<><><>0<>0<><>::uid://dyfvqfjikcbnk::::res://assets/backgrounds/bedroom.png<>uid://dghrmc5ub7fso::::res://scenes/Player.tscn<>uid://bvymkd61fly0j::::res://scripts/Level.gd<>uid://marwldeffjcf::::res://scenes/Interactable.tscn<>uid://7h4i2f1kqlx6::::res://scenes/BedroomInvestigationPanel.gd<>uid://buvxy1jmkcx8::::res://images/Carta anónima en mansión encantada-2.png<>uid://88ype1qqkqhg::::res://audio/audio/bedroom/shut_up_ghost-haunted-mansion-echo-ambiance.mp3
+BedroomInvestigationPanel.gd::GDScript::2262270146886724089::1793913870::0::1::::<>Control<><>0<>0<><>::
+Ending.tscn::PackedScene::7767999181726476484::1793921879::0::1::::<><><>0<>0<><>::uid://dfgmlkvjlustf::::res://assets/backgrounds/ending.png<>uid://dghrmc5ub7fso::::res://scenes/Player.tscn<>uid://bvymkd61fly0j::::res://scripts/Level.gd<>uid://marwldeffjcf::::res://scenes/Interactable.tscn<>uid://3ybcwu1ro7j2::::res://scenes/ending_sequence.gd<>uid://cael268cirqf::::res://audio/audio/mansion/DarkHorrorAmbient.mp3<>uid://sr8fxtwdimye::::res://audio/ending/GhostWhisper.mp3<>uid://cdj3bsykm4txh::::res://audio/ending/DoorCreak.mp3
+ending_sequence.gd::GDScript::2014898164157335437::1793852273::0::1::::<>CanvasLayer<><>0<>0<><>::
+Exterior.tscn::PackedScene::3471114722837068772::1793921923::0::1::::<><><>0<>0<><>::uid://dritvyiemfg7y::::res://assets/backgrounds/exterior.png<>uid://dghrmc5ub7fso::::res://scenes/Player.tscn<>uid://bvymkd61fly0j::::res://scripts/Level.gd<>uid://marwldeffjcf::::res://scenes/Interactable.tscn<>uid://bgjlj8ytd51o7::::res://scenes/investigation_panel.gd<>uid://buvxy1jmkcx8::::res://images/Carta anónima en mansión encantada-2.png<>uid://dblw2yjhb7wrt::::res://audio/audio/exterior/atlasaudio-mysterious-581914.mp3
+Interactable.tscn::PackedScene::843338182579221413::1793909437::0::1::::<><><>0<>0<><>::uid://bx7cubl31eltw::::res://scripts/Interactable.gd<>uid://dmuq25dmqn6sk::::res://images/carta_transparente.png
+Investigation.tscn::PackedScene::7436624132518423179::1793921728::0::1::::<><><>0<>0<><>::uid://dwn634vdkju0a::::res://assets/backgrounds/investigation.png<>uid://dghrmc5ub7fso::::res://scenes/Player.tscn<>uid://bvymkd61fly0j::::res://scripts/Level.gd<>uid://marwldeffjcf::::res://scenes/Interactable.tscn<>uid://doy6r1oihaei7::::res://scenes/InvestigationDocumentPanel.gd<>uid://77mwfo6dstcn::::res://audio/audio/investigation/ovrsoull-dark-ambient-cinematic-drone-investigative-pulse-minimalist-tension.mp3
+InvestigationDocumentPanel.gd::GDScript::8193364900988543024::1793919355::0::1::::<>Control<><>0<>0<><>::
+investigation_panel.gd::GDScript::2826818875587760996::1793915422::0::1::::<>Control<><>0<>0<><>::
+MainMenu.tscn::PackedScene::1444585444702426074::1793926968::0::1::::<><><>0<>0<><>::uid://d1kipyado6xe0::::res://assets/ui/main_menu_background.png<>uid://cn1rrkw2fexdw::::res://scripts/MainMenu.gd<>uid://csiw1qpdgnkm8::::res://audio/audio/mainmenu/ashot_danielyan-mysterious-suspense-cinematic-soundtrack-film-music-230419.mp3
+Mansion.tscn::PackedScene::2805223162882322847::1793920571::0::1::::<><><>0<>0<><>::uid://cimwel6v50yjn::::res://assets/backgrounds/mansion_hall.png<>uid://dghrmc5ub7fso::::res://scenes/Player.tscn<>uid://bvymkd61fly0j::::res://scripts/Level.gd<>uid://marwldeffjcf::::res://scenes/Interactable.tscn<>uid://w4qibmiym6ia::::res://scenes/MansionInvestigationPanel.gd<>uid://bldhknjhc3dlt::::res://images/llave.png<>uid://bx7cubl31eltw::::res://scripts/Interactable.gd<>uid://bna0k56nl2fr8::::res://audio/Haunted-house-ambience.mp3<>uid://b25pfkd2m10fn::::res://scenes/ambient_audio.gd
+MansionInvestigationPanel.gd::GDScript::1605007344597014892::1793913596::0::1::::<>Control<><>0<>0<><>::
+player.gd::GDScript::4258294133605736200::1793827440::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Player.tscn::PackedScene::7595899527891946262::1793675394::0::1::::<><><>0<>0<><>::uid://b1w0qnp2h3hsy::::res://scenes/player.gd<>res://assets/characters/detective_frames.tres
+::res://scripts/::1793915019
+GameState.gd::GDScript::6694509894040903884::1793771136::0::1::::<>Node<><>0<>0<><>::
+Interactable.gd::GDScript::4066981396184695496::1793843142::0::1::::<>Area2D<><>0<>0<><>::
+Level.gd::GDScript::3910678134688913251::1793915019::0::1::::<>Node2D<><>0<>0<><>::
+MainMenu.gd::GDScript::5740033264112411048::1793751036::0::1::::<>Control<><>0<>0<><>::
+Player.gd::GDScript::806628785122022741::1793670703::0::1::::<>CharacterBody2D<><>0<>0<><>::

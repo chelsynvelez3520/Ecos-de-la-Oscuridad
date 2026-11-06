@@ -1,0 +1,87 @@
+[gd_scene format=3 uid="uid://ut1d1tkggduw"]
+
+[ext_resource type="Texture2D" uid="uid://d1kipyado6xe0" path="res://assets/ui/main_menu_background.png" id="1"]
+[ext_resource type="Script" uid="uid://cn1rrkw2fexdw" path="res://scripts/MainMenu.gd" id="2"]
+[ext_resource type="AudioStream" uid="uid://csiw1qpdgnkm8" path="res://audio/audio/mainmenu/ashot_danielyan-mysterious-suspense-cinematic-soundtrack-film-music-230419.mp3" id="3_2wh52"]
+
+[node name="MainMenu" type="Control" unique_id=496173946]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("2")
+
+[node name="Background" type="TextureRect" parent="." unique_id=1462894673]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = ExtResource("1")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="MenuBacking" type="ColorRect" parent="." unique_id=1427269885]
+layout_mode = 0
+offset_left = 72.0
+offset_top = 475.0
+offset_right = 430.0
+offset_bottom = 690.0
+mouse_filter = 2
+color = Color(0.015, 0.025, 0.055, 0.82)
+
+[node name="Menu" type="VBoxContainer" parent="." unique_id=635982722]
+layout_mode = 0
+offset_left = 88.0
+offset_top = 395.0
+offset_right = 550.0
+offset_bottom = 682.0
+theme_override_constants/separation = 7
+
+[node name="MenuTitle" type="Label" parent="Menu" unique_id=524502985]
+custom_minimum_size = Vector2(0, 28)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.92, 0.85, 0.68, 1)
+theme_override_font_sizes/font_size = 30
+text = "COMIENZA LA INVESTIGACIÓN"
+horizontal_alignment = 1
+
+[node name="NewGameButton" type="Button" parent="Menu" unique_id=336452168]
+custom_minimum_size = Vector2(326, 35)
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Nueva partida"
+
+[node name="InstructionsButton" type="Button" parent="Menu" unique_id=1511480271]
+custom_minimum_size = Vector2(326, 35)
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Instrucciones"
+
+[node name="ExitButton" type="Button" parent="Menu" unique_id=198085692]
+custom_minimum_size = Vector2(326, 35)
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Salir"
+
+[node name="Info" type="Label" parent="Menu" unique_id=322587385]
+custom_minimum_size = Vector2(326, 35)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.82, 0.84, 0.9, 1)
+theme_override_font_sizes/font_size = 16
+text = "Disfruta este nuevo misterio.."
+horizontal_alignment = 1
+autowrap_mode = 2
+
+[node name="AmbientAudio" type="AudioStreamPlayer" parent="." unique_id=97012377]
+stream = ExtResource("3_2wh52")
+volume_db = -8.0
+autoplay = true
+
+[connection signal="pressed" from="Menu/NewGameButton" to="." method="_on_new_game_pressed"]
+[connection signal="pressed" from="Menu/InstructionsButton" to="." method="_on_instructions_pressed"]
+[connection signal="pressed" from="Menu/ExitButton" to="." method="_on_exit_button_pressed"]

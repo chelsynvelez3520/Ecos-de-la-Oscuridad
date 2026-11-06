@@ -1,0 +1,14 @@
+Label
+Sprite2D
+AudioStreamPlayer
+CollisionShape2D
+StaticBody2D
+Node2D
+AudioStreamPlayer2D
+CanvasLayer
+Control
+Button
+OptionButton
+VBoxContainer
+Panel
+Area2D

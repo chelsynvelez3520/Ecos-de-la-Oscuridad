@@ -1,0 +1,39 @@
+[gd_scene format=3 uid="uid://dghrmc5ub7fso"]
+
+[ext_resource type="Script" uid="uid://b1w0qnp2h3hsy" path="res://scenes/player.gd" id="1_v6fml"]
+[ext_resource type="SpriteFrames" path="res://assets/characters/detective_frames.tres" id="2"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_body"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_interact"]
+radius = 48.0
+
+[node name="Player" type="CharacterBody2D" unique_id=1102750198]
+z_index = 5
+script = ExtResource("1_v6fml")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1211386304]
+scale = Vector2(1.8, 1.8)
+sprite_frames = ExtResource("2")
+animation = &"idle"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1503422076]
+shape = SubResource("CircleShape2D_body")
+
+[node name="InteractionArea" type="Area2D" parent="." unique_id=317154122]
+collision_layer = 0
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractionArea" unique_id=1838232437]
+shape = SubResource("CircleShape2D_interact")
+
+[node name="Flashlight" type="PointLight2D" parent="." unique_id=547419927]
+color = Color(1, 0.88, 0.62, 1)
+energy = 0.65
+texture_scale = 3.0
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=2162196]
+limit_left = 0
+limit_top = 0
+limit_right = 1280
+limit_bottom = 720

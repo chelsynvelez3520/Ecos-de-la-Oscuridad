@@ -1,0 +1,16 @@
+ECOS DE LA OSCURIDAD – CORRECCIÓN DEL MENÚ (V3)
+
+Esta versión reemplaza únicamente la escena del menú principal por una versión más sencilla,
+sin estilos ni subrecursos de tema que puedan provocar incompatibilidades entre versiones de Godot 4.
+
+Para probar:
+1. Descomprime el ZIP en una carpeta nueva.
+2. En Godot, pulsa Importar y selecciona project.godot.
+3. Abre el proyecto y ejecuta con F5.
+
+No borres ni reemplaces tu proyecto original zelda.
+Si Godot vuelve a mostrar un error, envíame una captura donde se vea el texto completo del panel
+de errores y dime qué versión exacta de Godot 4 utilizas (por ejemplo, 4.2.2 o 4.4.1).
+
+Nota: no puedo ejecutar Godot en este entorno para validar el proyecto dentro del editor; esta
+versión simplifica la escena que falló, pero necesito tu resultado para confirmar la compatibilidad.

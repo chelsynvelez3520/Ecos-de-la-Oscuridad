@@ -1,0 +1,85 @@
+[gd_scene format=3 uid="uid://diw42uhj3yww7"]
+
+[ext_resource type="Texture2D" uid="uid://dfgmlkvjlustf" path="res://assets/backgrounds/ending.png" id="1"]
+[ext_resource type="PackedScene" uid="uid://dghrmc5ub7fso" path="res://scenes/Player.tscn" id="2"]
+[ext_resource type="Script" uid="uid://bvymkd61fly0j" path="res://scripts/Level.gd" id="3"]
+[ext_resource type="PackedScene" uid="uid://marwldeffjcf" path="res://scenes/Interactable.tscn" id="4"]
+[ext_resource type="Script" uid="uid://3ybcwu1ro7j2" path="res://scenes/ending_sequence.gd" id="5_5q2ai"]
+[ext_resource type="AudioStream" uid="uid://cael268cirqf" path="res://audio/audio/mansion/DarkHorrorAmbient.mp3" id="6_es6oj"]
+[ext_resource type="AudioStream" uid="uid://sr8fxtwdimye" path="res://audio/ending/GhostWhisper.mp3" id="7_nimxc"]
+[ext_resource type="AudioStream" uid="uid://cdj3bsykm4txh" path="res://audio/ending/DoorCreak.mp3" id="8_nimxc"]
+
+[node name="Ending" type="Node2D" unique_id=1987995123]
+script = ExtResource("3")
+level_title = "Desenlace"
+objective = "La verdad ha salido a la luz. Has llegado al desenlace."
+
+[node name="Background" type="Sprite2D" parent="." unique_id=653438771]
+position = Vector2(640, 360)
+scale = Vector2(4.25, 2.35)
+texture = ExtResource("1")
+
+[node name="Player" parent="." unique_id=1253069231 instance=ExtResource("2")]
+position = Vector2(640, 560)
+
+[node name="HUD" type="CanvasLayer" parent="." unique_id=1202487914]
+
+[node name="Panel" type="PanelContainer" parent="HUD" unique_id=1955164593]
+offset_left = 18.0
+offset_top = 18.0
+offset_right = 420.0
+offset_bottom = 135.0
+
+[node name="Margin" type="MarginContainer" parent="HUD/Panel" unique_id=1765599560]
+layout_mode = 2
+theme_override_constants/margin_left = 12
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 12
+theme_override_constants/margin_bottom = 8
+
+[node name="VBox" type="VBoxContainer" parent="HUD/Panel/Margin" unique_id=2019401012]
+layout_mode = 2
+
+[node name="Title" type="Label" parent="HUD/Panel/Margin/VBox" unique_id=129346608]
+layout_mode = 2
+theme_override_font_sizes/font_size = 25
+text = "Desenlace"
+
+[node name="Objective" type="Label" parent="HUD/Panel/Margin/VBox" unique_id=386352132]
+layout_mode = 2
+theme_override_font_sizes/font_size = 18
+text = "La verdad ha salido a la luz. Has llegado al desenlace."
+autowrap_mode = 2
+
+[node name="Controls" type="Label" parent="HUD/Panel/Margin/VBox" unique_id=1091518918]
+layout_mode = 2
+theme_override_font_sizes/font_size = 20
+text = "WASD/Flechas: mover | E: avanzar/interactuar | F: linterna | ESC: menú"
+
+[node name="FlashlightStatus" type="Label" parent="HUD" unique_id=2103932847]
+offset_left = 1012.0
+offset_top = 22.0
+offset_right = 1267.0
+offset_bottom = 64.0
+theme_override_font_sizes/font_size = 20
+text = "Linterna: ENCENDIDA [F]"
+
+[node name="Interactable1" parent="." unique_id=496885873 instance=ExtResource("4")]
+position = Vector2(650, 475)
+display_name = "La verdad"
+description = "Has descubierto qué ocurrió con la joven. El desenlace está en tus manos."
+
+[node name="EndingSequence" type="CanvasLayer" parent="." unique_id=971815085]
+layer = 20
+script = ExtResource("5_5q2ai")
+ending_music = ExtResource("6_es6oj")
+voice_sound = ExtResource("7_nimxc")
+door_sound = ExtResource("8_nimxc")
+
+[node name="PistaFinal" type="Label" parent="." unique_id=670945267]
+offset_left = 606.0
+offset_top = 404.0
+offset_right = 821.0
+offset_bottom = 440.0
+theme_override_font_sizes/font_size = 17
+text = "Mira el mensaje Final"
