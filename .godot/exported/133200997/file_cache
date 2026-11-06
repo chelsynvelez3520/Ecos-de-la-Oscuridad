@@ -1,0 +1,11 @@
+res://assets/characters/detective_frames.tres::782319da2811cf36b8fcd1e244130f3c::1793670703::res://.godot/exported/133200997/export-11d6b7fa2b3284df76280332b7dc0e72-detective_frames.res
+res://scenes/Basement.tscn::8d5771100c694745238e0c3d62efd7c2::1793921501::res://.godot/exported/133200997/export-1eaedc99ddf50c5bb6510f32e45a5b17-Basement.scn
+res://scenes/basement_puzzle_panel.tscn::a4fe4c5d9071b97f0f0c849f27ac8e8b::1793840361::res://.godot/exported/133200997/export-15f86a648e784d76794353c178ac659c-basement_puzzle_panel.scn
+res://scenes/Bedroom.tscn::916530e7c16dedc494ef8cab5ff81a8c::1793921036::res://.godot/exported/133200997/export-23773d2144368bc16c54b86cf34098da-Bedroom.scn
+res://scenes/Ending.tscn::e638cc4a66ba1d166c0885255d889120::1793921879::res://.godot/exported/133200997/export-8c61e8acbbc61acb20c7dd1a1c1b4313-Ending.scn
+res://scenes/Exterior.tscn::2f0a5030798da1a7f3406122b64ff595::1793921923::res://.godot/exported/133200997/export-5138b94f905e6fd9809463ffa240e583-Exterior.scn
+res://scenes/Interactable.tscn::4d05f8d2bcdb003c27551738c752e1a9::1793909437::res://.godot/exported/133200997/export-388d004750266a1c9d90842f4431b8a7-Interactable.scn
+res://scenes/Investigation.tscn::2a044c939c95b0b1e4a0e107e736fe10::1793921728::res://.godot/exported/133200997/export-3d597e8ad3b5a66790edc8845373c471-Investigation.scn
+res://scenes/MainMenu.tscn::156abbe3daaac1ff0a7bf8902db18f57::1793926968::res://.godot/exported/133200997/export-23c8b2a48d59a0cd018bd8ad5ce7794c-MainMenu.scn
+res://scenes/Mansion.tscn::a0f1c89c44bb3aa2da2bdae24521ad4c::1793920571::res://.godot/exported/133200997/export-392ceaa234feb354f55ded5afc90c190-Mansion.scn
+res://scenes/Player.tscn::b2c13ad41267dfbdbca1abb9947e9ab9::1793675394::res://.godot/exported/133200997/export-e8220e74d1354b9e6b168b513689419c-Player.scn

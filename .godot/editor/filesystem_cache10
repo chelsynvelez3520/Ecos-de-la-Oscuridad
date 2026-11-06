@@ -1,6 +1,6 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1793927374
-export_presets.cfg::TextFile::-1::1793926616::0::1::::<><><>0<>0<><>::
+::res://::1793933144
+export_presets.cfg::TextFile::-1::1793933144::0::1::::<><><>0<>0<><>::
 LEEME_VERSION_3.txt::TextFile::-1::1793670703::0::1::::<><><>0<>0<><>::
 README_PRIMEROS_PASOS.txt::TextFile::-1::1793670703::0::1::::<><><>0<>0<><>::
 ::res://assets/::1793670703
@@ -52,6 +52,10 @@ DarkHorrorAmbient.mp3::AudioStreamMP3::140641666501851561::1793851431::179388759
 ::res://audio/ending/::1793887592
 DoorCreak.mp3::AudioStreamMP3::5003690142645364553::1793851431::1793851431::1::::<><><>0<>0<>43e6db86e5b04d1585957bae8891a3d1<>res://.godot/imported/DoorCreak.mp3-d47c19e7e78bd3a9195e9bbcaa841ce7.mp3str::
 GhostWhisper.mp3::AudioStreamMP3::1300507435426671572::1793851431::1793851431::1::::<><><>0<>0<>b12351210e1d91173ec09f0fe6fc084a<>res://.godot/imported/GhostWhisper.mp3-02983625f6e0b65ce2b33255601e353a.mp3str::
+::res://build/::1793933145
+index.apple-touch-icon.png::CompressedTexture2D::2671376070880732632::1793933145::1793933185::1::::<><><>0<>0<>1d889c50be547c374c4219cc5e4c319a<>res://.godot/imported/index.apple-touch-icon.png-dcd2c094bfa3f769157f6f2ba930cc56.ctex::
+index.icon.png::CompressedTexture2D::6015336094991595311::1793933145::1793933185::1::::<><><>0<>0<>a136ba9507a55f0adfd090c76baf9fe0<>res://.godot/imported/index.icon.png-96098a584bb713a61c1e8aa1df56a1bb.ctex::
+index.png::CompressedTexture2D::151796841923309634::1793933145::1793933185::1::::<><><>0<>0<>dcd1642ca8d004a007442ac8395c4ffb<>res://.godot/imported/index.png-659c11691fe5279cf81f33eb936290a4.ctex::
 ::res://images/::1793912525
 Carta anónima bajo la luna-1.png::CompressedTexture2D::7168952521639419772::1793756585::1793756586::1::::<><><>0<>0<>daffefbd1c55be0d33103f9876874d4a<>res://.godot/imported/Carta anónima bajo la luna-1.png-ecc03fbc39650a32af913eec2e78d5f6.ctex::
 Carta anónima en mansión encantada-2.png::CompressedTexture2D::112793829977805543::1793756585::1793912216::1::::<><><>0<>0<>adf0359d9b335060e089298dd36fa9bd<>res://.godot/imported/Carta anónima en mansión encantada-2.png-bea81c06f431c5958be9581cd32a64bb.ctex::
